@@ -1,8 +1,7 @@
 # Procedural Programming Exercises
-Bunch of simple Python, C, and C++ code that I wrote to improve my skills. 
+Bunch of simple C++ code that I wrote to improve my skills. 
 These codes aims to teach specific topics with explanatory comments.
 They are short, straight to the point, and instructive.
-Also there are console games too!
 
 ## Contains:
 - Variables
@@ -18,4 +17,4 @@ Also there are console games too!
 - Structures, Unions
 - Pointers
 - Dynamic Programming
-- Mathematical Properties 
+- Mathematical Properties
