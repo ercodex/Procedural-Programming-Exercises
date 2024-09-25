@@ -9,11 +9,13 @@ Also there are console games too!
 - Data Types
 - Comments
 - Functions
+- Loops
 - Control Structures
-- Arrays
+- Arrays, Matrices
 - Lists
 - Dictionaries
 - Stacks and Queues
+- Structures, Unions
+- Pointers
 - Dynamic Programming
-- Console Games
-- Mathematical Properties
+- Mathematical Properties 
