@@ -1,7 +1,7 @@
 # Procedural Programming Exercises
-Bunch of simple C++ code that I wrote to improve my skills. 
-These codes aims to teach specific topics with explanatory comments.
-They are short, straight to the point, and instructive.
+This repository contains a collection of C++ practice codes designed to be educational.
+
+All the codes in this repository were written by me to enhance my C++ programming skills, especially in procedural programming style. They are primarily focused on helping me achieve excellent grades in college exams.
 
 ## Contains:
 - Variables
